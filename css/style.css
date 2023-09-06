@@ -1,6 +1,6 @@
 body {
   background-color: #39446f;
-  background-image: url(/media/steve-busch-FqPkHwRn5x8-unsplash.jpg);
+  background-image: url("/media/steve-busch-FqPkHwRn5x8-unsplash.jpg");
   background-position: top;
   background-size: cover;
 }
