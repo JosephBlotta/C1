@@ -1,4 +1,4 @@
-1. Project: Add Website and Files to Github
+Project: Add Website and Files to Github
    
 Goals
 
